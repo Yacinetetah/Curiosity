@@ -1,0 +1,48 @@
+5
+7
+5
+~.~....
+#.....~
+..#C..#
+....~..
+.~.....
+terrain 1 , densite obstacle obtenue : 0.228571 
+---------------
+7
+5
+.....#.
+.....~.
+...C#..
+.......
+...~...
+terrain 2 , densite obstacle obtenue : 0.114286 
+---------------
+7
+5
+......#
+.~~..#~
+#.~C..~
+..~~.~.
+##..#.#
+terrain 3 , densite obstacle obtenue : 0.428571 
+---------------
+7
+5
+.....#.
+#....~~
+#..C.~~
+..#~..~
+#..~..#
+terrain 4 , densite obstacle obtenue : 0.371429 
+---------------
+7
+5
+.~#.#.~
+~.#.~..
+...C..~
+..#....
+.#~..#.
+terrain 5 , densite obstacle obtenue : 0.342857 
+---------------
+densite obstacle moyenne :0.297143
+pourcentage de terrains valide :100.00 % 

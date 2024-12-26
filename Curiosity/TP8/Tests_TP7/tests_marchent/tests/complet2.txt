@@ -1,0 +1,7 @@
+Tests_TP7/tests_marchent/map2_terr.txt
+Tests_TP7/tests_marchent/compl1_prg.txt
+81
+F
+6 3
+E
+

@@ -1,0 +1,8 @@
+#!/bin/bash 
+files=(Tests_TP7/tests_marchent/tests/complet1.txt Tests_TP7/tests_marchent/tests/complet2.txt Tests_TP7/tests_marchent/tests/fin.txt Tests_TP7/tests_marchent/tests/rot.txt Tests_TP7/tests_marchent/tests/test1.txt Tests_TP7/tests_marchent/tests/test2.txt Tests_TP7/tests_marchent/tests/test3.txt Tests_TP7/tests_marchent/tests/test4.txt Tests_TP7/tests_marchent/tests/test5.txt Tests_TP7/tests_marchent/tests/test6.txt)
+for i in {0..0}; do
+	for file in "${files[@]}"; do
+		./curiosity-test"$i" "$file"
+	done
+done
+

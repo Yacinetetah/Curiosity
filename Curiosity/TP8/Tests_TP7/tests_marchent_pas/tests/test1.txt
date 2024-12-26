@@ -1,0 +1,7 @@
+Tests_TP7/tests_marchent/terrain_11x9.txt
+Tests_TP7/tests_marchent/simple_prg.txt
+6
+P
+10 2
+E
+

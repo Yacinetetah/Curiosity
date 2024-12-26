@@ -1,0 +1,19 @@
+A 1M
+{
+  DA
+  8M
+  {GGAAAD}
+  {AG}
+  ?
+} {} ?
+AAA
+6M
+{GAAD}
+{
+  4M
+  {DAAG}
+  {}
+  ?
+}
+?
+A
